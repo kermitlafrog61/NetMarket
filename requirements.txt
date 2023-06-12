@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pydantic
+python-dotenv
+mypy
+sqlalchemy
+psycopg2-binary
+alembic
+python-decouple
+asyncpg
