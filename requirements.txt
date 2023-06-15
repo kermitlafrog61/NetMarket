@@ -8,3 +8,6 @@ psycopg2-binary
 alembic
 python-decouple
 asyncpg
+pytest
+pytest-asyncio
+httpx
